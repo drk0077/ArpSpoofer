@@ -5,10 +5,12 @@ There are two spoofers in under the repository:
 use python to run the script,
 ```python
 python arpspoofer.py -t <target-ip> -r <spoof-ip>
+```
 
 **2, arpspoofer.py**
 use python3 to run the script.
 ```python3
 python3 arpspoofer.py -t <target-ip> -d <spoof-ip>
+```
 
 NOTE : if the script is not running properly under the terminal , run the script under python virtual environment in kali linux
